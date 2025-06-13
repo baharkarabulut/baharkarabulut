@@ -1,15 +1,20 @@
-<h1 align="center">Hi 👋, I'm Bahar</h1>
+<h1 align="center">Hello! I'm Bahar 👋 </h1>
 <h3 align="center">
-  As a backend developer with a degree in computer engineering, I work on developing web applications that are user-oriented and compatible with modern technologies. I have experience in API development and database management. My areas of expertise include HTML5, CSS3, JavaScript, .Net and C# technologies. I am always open to learn new things and improve myself. I am excited to contribute to projects in the field of technology.
+👩🏻‍💻 I am a Computer Engineer, also a .NET Developer and an AI & Machine Learning Enthusiast.
 </h3>
 
-<p align="center">👩🏻‍💻 Computer Engineer | 🤖 AI & ML Enthusiast | ⌨️ .NET Developer</p>
+<p align="center">I develop user-oriented web applications compatible with modern technologies.  
+I have experience in API development, database design, and full-stack projects.  
+I am always eager to learn and improve myself.  
+I especially aim to create productive solutions in the fields of AI and machine learning.
+</p>
 
-- 🔭 I’m currently working on **FullStack Development**
+- 🔭 I am currently working on FullStack Development**
 
-- 💬 Ask me about **ASP.NET MVC, .NET Core, C#, Entity Framework, MSSQL Server**
+- 💬 Feel free to ask me about ASP.NET MVC, .NET Core, C#, Entity Framework, MSSQL Server**
 
-- 📫 How to reach me **me@baharkarabulut.com**
+📫 You can reach me at: me@baharkarabulut.com**
+🤖 My interests include Artificial Intelligence, Machine Learning, Backend Development, and Database Management.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
