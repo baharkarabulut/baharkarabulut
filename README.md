@@ -9,12 +9,13 @@ I am always eager to learn and improve myself.
 I especially aim to create productive solutions in the fields of AI and machine learning.
 </p>
 
-- 🔭 I am currently working on FullStack Development**
+- 🔭 I am currently working on FullStack Development
 
-- 💬 Feel free to ask me about ASP.NET MVC, .NET Core, C#, Entity Framework, MSSQL Server**
+- 💬 Feel free to ask me about ASP.NET MVC, .NET Core, C#, Entity Framework, MSSQL Server
 
-📫 You can reach me at: me@baharkarabulut.com**
-🤖 My interests include Artificial Intelligence, Machine Learning, Backend Development, and Database Management.**
+📫 You can reach me at: me@baharkarabulut.com
+
+🤖 My interests include Artificial Intelligence, Machine Learning, Backend Development, and Database Management.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
