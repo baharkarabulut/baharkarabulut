@@ -1,32 +1,44 @@
-<h1 align="center">Hello! I'm Bahar 👋 </h1>
-<h3 align="center">
-👩🏻‍💻 I am a Computer Engineer, also a .NET Developer and an AI & Machine Learning Enthusiast.
-</h3>
+💻 **Computer Engineer** | ⌨️ **Backend Developer** | 🤖 **AI & ML Enthusiast**
 
-<p align="center">I develop user-oriented web applications compatible with modern technologies.  
-I have experience in API development, database design, and full-stack projects.  
-I am always eager to learn and improve myself.  
-I especially aim to create productive solutions in the fields of AI and machine learning.
-</p>
+Hi there! I'm Bahar — a passionate backend developer with a degree in Computer Engineering. I specialize in building modern, scalable, and user-focused web applications using **.NET technologies**. From API design to database modeling, I enjoy crafting clean and maintainable backend systems that work seamlessly with frontend layers.
 
-- 🔭 I am currently working on FullStack Development
+---
 
-- 💬 Feel free to ask me about ASP.NET MVC, .NET Core, C#, Entity Framework, MSSQL Server
+## 🧰 Tech Stack
 
-📫 You can reach me at: me@baharkarabulut.com
+**Languages & Frameworks:**  
+C#, ASP.NET MVC, .NET Core, HTML5, CSS3, JavaScript
 
-🤖 My interests include Artificial Intelligence, Machine Learning, Backend Development, and Database Management.
+**Database & Tools:**  
+MSSQL Server, Entity Framework, Git, Docker
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/baharkarabulut" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baharkarabulut" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/baharcode" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baharcode" height="30" width="40" />
-  </a>
-</p>
+**Other Interests:**  
+Artificial Intelligence, Machine Learning, Data-Driven Development
 
+---
+
+## 🚀 Projects & Interests
+
+Over the past years, I've worked on various full-stack projects where I’ve taken responsibility for both the architectural design and implementation. From designing permission workflows in enterprise systems to integrating data visualizations using Grafana, I enjoy solving complex problems with clean, efficient code.
+
+I actively share side projects and experiments here on GitHub, where I explore new technologies and continuously refine my development practices.
+
+I'm especially passionate about the intersection of **software and industrial processes** — exploring how **AI/ML** can be applied in areas like manufacturing, quality control, and predictive systems. It's a space I’m excited to grow in professionally.
+
+---
+
+## 🌱 Let’s Connect
+
+I'm always open to learning, building, and collaborating on meaningful tech projects. I believe that great software not only works — it empowers.
+
+**🔗 More about me:**  
+🌐 Website: [baharkarabulut.com](https://baharkarabulut.com)  
+📸 Instagram: [@baharcode](https://instagram.com/baharcode)  
+📬 Email: me@baharkarabulut.com  
+
+---
+
+⭐️ *Feel free to explore my repositories and drop a star if you find something interesting!*
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
