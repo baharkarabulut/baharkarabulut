@@ -39,7 +39,7 @@ I'm always open to learning, building, and collaborating on meaningful tech proj
 ---
 ## 🐍 GitHub Activity Snake
 
-![snake gif](https://github.com/baharkarabulut/baharkarabulut/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/baharkarabulut/snk/raw/output/github-contribution-grid-snake.svg)
 
 ⭐️ *Feel free to explore my repositories and drop a star if you find something interesting!*
 <h3 align="left">Languages and Tools:</h3>
