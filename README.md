@@ -2,6 +2,8 @@
 
 Hi there! I'm Bahar — a passionate backend developer with a degree in Computer Engineering. I specialize in building modern, scalable, and user-focused web applications using **.NET technologies**. From API design to database modeling, I enjoy crafting clean and maintainable backend systems that work seamlessly with frontend layers.
 
+![snake gif](https://github.com/baharkarabulut/snk/raw/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 🧰 Tech Stack
@@ -37,9 +39,6 @@ I'm always open to learning, building, and collaborating on meaningful tech proj
 📬 Email: me@baharkarabulut.com  
 
 ---
-## 🐍 GitHub Activity Snake
-
-![snake gif](https://github.com/baharkarabulut/snk/raw/output/github-contribution-grid-snake.svg)
 
 ⭐️ *Feel free to explore my repositories and drop a star if you find something interesting!*
 <h3 align="left">Languages and Tools:</h3>
